@@ -1,0 +1,43 @@
+@media (max-width: 575.98px) {
+
+   .footer-contant{
+    flex-direction: column;
+   }
+   .img-salary{
+    width: 80vw;
+    padding: 40px 0px;
+   }
+   .section-features-design .img-salary2{
+    width: 67vw;
+   }
+    .img-head{
+      width: 89vw; 
+   }
+   .details-qusetion{
+      padding-top: 30px;
+   }
+   .section-app .hand-mobile{
+      width: 85vw;
+   }
+   .salary-note{
+    width: 67vw;
+    padding: 30px;
+    align-self: center;
+   }
+   .section2-boxs{
+    padding-top: 5rem;
+   }
+   .section-header .logo-header{
+    width: 78vw;
+    padding-top: 30px;
+   }
+   .form-section{
+    padding-top:20px;
+   }
+   .footer-section{
+    margin-top: 30px;
+   }
+   .logo-footer{
+      padding-top: 5px;
+   }
+}
